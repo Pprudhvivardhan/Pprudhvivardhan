@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ prudhvivardhan
 - 👀 I’m interested in Machine learning And Deep learning And Devops
-- 🌱 I’m currently learning Artificial Intelligence & CI/CD 
+- 🌱 I’m currently learning  GPT-3 & CI/CD 
 - 📫 How to reach me : prudhviperumandla@gmail.com
 - 💻 Languages and tools : Python, MysQl, NLP, Computer Vision ,ML, DL, Statistics, Power BI, Flask .
 
