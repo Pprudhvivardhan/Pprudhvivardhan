@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prudhvi Vardhan</h1>
-<h3 align="center">A passionate Data Scientist and DevOps from India</h3>
+<h3 align="center">A passionate Data Scientist and DevOps Engineer </h3>
 
 - 🌱 I’m currently learning **Advance Neural Networks (LLModels,GAN,Transformers) And Microservices DevOps**
 
