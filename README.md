@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Prudhvi Vardhan</h1>
 <h3 align="center">A passionate Data Scientist and DevOps from India</h3>
 
-- 🌱 I’m currently learning **Machine learning,Deep learning And DevOps**
+- 🌱 I’m currently learning ** Advance Neural Networks (LLModels,GAN,Transformers) And Microservices DevOps**
 
 - 📝 I regularly write articles on [https://medium.com/@prudhviperumandla](https://medium.com/@prudhviperumandla)
 
