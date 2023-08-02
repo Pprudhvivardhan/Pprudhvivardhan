@@ -34,7 +34,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pprudhvivardhan&" alt="pprudhvivardhan" /></p>
 
-🐍 Snake Eating My Contributions 🍴📈
+
+
+  My Contributions with 🐍 Snake Game🍴📈
+  
  ![Snake animation](https://github.com/Pprudhvivardhan/Pprudhvivardhan/raw/output/github-contribution-grid-snake-dark.svg)
 
  
