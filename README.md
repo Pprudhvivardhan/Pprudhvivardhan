@@ -30,4 +30,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pprudhvivardhan&" alt="pprudhvivardhan" /></p>
 
-![snake gif](https://github.com/Pprudhvivardhan/Pprudhvivardhan/blob/output/github-contribution-grid-snake.gif)
+ 
