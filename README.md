@@ -29,3 +29,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pprudhvivardhan&show_icons=true&locale=en" alt="pprudhvivardhan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pprudhvivardhan&" alt="pprudhvivardhan" /></p>
+
+![snake gif](https://github.com/Pprudhvivardhan/Pprudhvivardhan/blob/output/github-contribution-grid-snake.gif)
