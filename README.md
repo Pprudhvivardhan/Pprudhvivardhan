@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@prudhviperumandla](https://medium.com/@prudhviperumandla)
 
-- 💬 Ask me about **Machine learning, Deep learning And DevOps**
+- 💬 Ask me about **Artificial intelligence,Machine learning, Deep learning And DevOps**
 
 - 📫 How to reach me **prudhviperumandla@gmail.com**
 
